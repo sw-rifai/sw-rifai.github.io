@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sami Rifai (academic website IN PROGRESS)"
+title                    : "Sami Rifai (website IN PROGRESS)"
 title_separator          : "-"
 name                     : &name "Sami Rifai"
 description              : &description "personal description"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Links"
-  avatar           : "profile.jpg"
+  name             : "Sami W. Rifai"
+  avatar           : "sami_profile.jpg"
   bio              : "sub/Tropical Forest Ecologist & Remote Sensing Enthusiast"
   location         : "Sydney &\n Bay Area CA"
   employer         : "University of New South Wales"
