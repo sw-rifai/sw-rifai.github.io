@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Links"
-  avatar           : "images/profile.png"
+  avatar           : "profile.jpg"
   bio              : "sub/Tropical Forest Ecologist & Remote Sensing Enthusiast"
   location         : "Sydney &\n Bay Area CA"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "University of New South Wales"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=2GmEDKAAAAAJ&hl=en"
   email            : "srifai@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
