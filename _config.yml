@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sami Rifai (website IN PROGRESS)"
+title                    : "Sami Rifai"
 title_separator          : "-"
 name                     : &name "Sami Rifai"
 description              : &description "personal description"

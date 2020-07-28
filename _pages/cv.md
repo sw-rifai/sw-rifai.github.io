@@ -18,6 +18,9 @@ Education
 
 Work
 ======
-* 2017 - 2019: Postdoctoral Researcher, University of Oxford
+* 2017 - 2019: Postdoctoral Researcher with [Ecosystems Lab](http://oxfordecosystems.weebly.com/) (PI: [Yadvinder Malhi](http://www.yadvindermalhi.org/))  
+[Environmental Change Institute](https://www.eci.ox.ac.uk/index.html)  
+University of Oxford  
 
-* 2020 - current: Postdoctoral Researcher, University of New South Wales
+* 2020 - current: Postdoctoral Researcher with [Martin De Kauwe](http://mdekauwe.github.io/), ARC Centre of Excellence for Climate Extremes [CLEX](https://climateextremes.org.au/),
+ [Climate Change Research Centre](http://www.ccrc.unsw.edu.au/) at the University of New South Wales
