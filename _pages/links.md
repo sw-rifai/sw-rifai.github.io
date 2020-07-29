@@ -58,6 +58,8 @@ Data
 - [Copernicus ERA5](https://cds.climate.copernicus.eu/cdsapp#!/search?type=dataset&text=ERA5)
 - [MODIS products table from LP DAAC](https://lpdaac.usgs.gov/product_search/?collections=Combined+MODIS&collections=Terra+MODIS&collections=Aqua+MODIS&view=list)
 - [ESA CCI](http://cci.esa.int/data)
+- [TERN Data Portal](https://portal.tern.org.au/#/71d1463f)
+- [OzFlux Data Portal](http://data.ozflux.org.au/portal/home.jspx)
 
 Models
 =====
