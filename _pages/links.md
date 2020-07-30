@@ -23,6 +23,7 @@ Bash & system library syntax
 - [CDO quick ref](https://code.mpimet.mpg.de/projects/cdo/embedded/cdo_refcard.pdf)
 - [NCO quick ref](http://nco.sourceforge.net/nco_rfr_crd.pdf)
 - [git quick ref](https://education.github.com/git-cheat-sheet-education.pdf)
+- [gdal command line tools](https://gdal.org/programs/index.html)
 
 Python
 ======
