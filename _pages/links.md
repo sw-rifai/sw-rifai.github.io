@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Links I find useful."
+title: "Links I find useful:"
 permalink: /links/
 author_profile: true
 redirect_from:
@@ -16,6 +16,7 @@ R
 - [data.table quick ref](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/datatable_Cheat_Sheet_R.pdf)
 - [colorspace hcl palettes](https://colorspace.r-forge.r-project.org/articles/hcl_palettes.html)
 - [nonlinear functional forms](https://www.statforbiology.com/2020/stat_nls_usefulfunctions/)
+- [faster R through pre-allocated memory](https://datascienceplus.com/strategies-to-speedup-r-code/)
 
 Bash & system library syntax
 ======
