@@ -47,7 +47,7 @@ Current issue of Journals
 - [New Phytologist](https://nph.onlinelibrary.wiley.com/toc/14698137/current)  
 - [Global Change Biology](https://onlinelibrary.wiley.com/toc/13652486/current)  
 - [Ecology Letters](https://onlinelibrary.wiley.com/toc/14610248/current)  
-- [Science](https://science.sciencemag.org/content/369/6502?current-issue=y)
+- [Science](https://science.sciencemag.org/)
 - [Nature](https://www.nature.com/nature/current-issue)
 - [PNAS](https://www.pnas.org/content/current)
 - [JAMES](https://agupubs.onlinelibrary.wiley.com/journal/19422466)
